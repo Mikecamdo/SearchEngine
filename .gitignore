@@ -1,0 +1,8 @@
+data/
+cmake-build-debug/
+cmake-build-release/
+.idea/
+test_folder/
+Org_Persistence.txt
+Person_Persistence.txt
+Word_Persistence.txt

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="21f_final_proj_template"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="21f_final_proj_template">
+				<Option output="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/21f_final_proj_template" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 21f_final_proj_template"/>
+					<CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="21f_final_proj_template/fast">
+				<Option output="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/21f_final_proj_template" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 21f_final_proj_template/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS\ 2341\ Projects/21f-srch-ngn-thebraintrust/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSAVLTree.h">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSAVLTreeTests.cpp">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSHashTable.h">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSHashTableTests.cpp">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DocumentParser.cpp">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DocumentParser.h">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/IndexHandler.cpp">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/IndexHandler.h">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/Org_Persistence.txt">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/Person_Persistence.txt">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/QueryEngine.cpp">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/QueryEngine.h">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/SearchEngine.cpp">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/SearchEngine.h">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/Stats_Persistence.txt">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/Word_Persistence.txt">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/blogs_0000001.json">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/catch_setup.cpp">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/catch_setup.h">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/diffs.txt">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/main.cpp">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/porter2_stemmer.cpp">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/porter2_stemmer.h">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/util">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/util/hash.h">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/util/string_view.h">
+			<Option target="21f_final_proj_template"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

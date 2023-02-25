@@ -1,0 +1,3 @@
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/CMakeFiles/21f_final_proj_template.dir

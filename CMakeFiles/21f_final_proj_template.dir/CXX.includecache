@@ -1,0 +1,1074 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSAVLTree.h
+stdexcept
+-
+iostream
+-
+ostream
+-
+queue
+-
+fstream
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSAVLTreeTests.cpp
+catch.hpp
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/catch.hpp
+DSAVLTree.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSAVLTree.h
+string
+-
+vector
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSHashTable.h
+vector
+-
+DSAVLTree.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSAVLTree.h
+iostream
+-
+fstream
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSHashTableTests.cpp
+catch.hpp
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/catch.hpp
+DSHashTable.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSHashTable.h
+vector
+-
+string
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DocumentParser.cpp
+DocumentParser.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DocumentParser.h
+porter2_stemmer.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/porter2_stemmer.h
+sstream
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DocumentParser.h
+iostream
+-
+string
+-
+fstream
+-
+dirent.h
+-
+filesystem
+-
+DSAVLTree.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSAVLTree.h
+vector
+-
+map
+-
+cstdio
+-
+IndexHandler.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/IndexHandler.h
+include/rapidjson/document.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/document.h
+include/rapidjson/istreamwrapper.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/istreamwrapper.h
+include/rapidjson/stringbuffer.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stringbuffer.h
+include/rapidjson/writer.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/writer.h
+include/rapidjson/filereadstream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/filereadstream.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/IndexHandler.cpp
+IndexHandler.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/IndexHandler.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/IndexHandler.h
+vector
+-
+string
+-
+fstream
+-
+iostream
+-
+map
+-
+DSAVLTree.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSAVLTree.h
+DSHashTable.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSHashTable.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/QueryEngine.cpp
+QueryEngine.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/QueryEngine.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/QueryEngine.h
+IndexHandler.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/IndexHandler.h
+DocumentParser.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DocumentParser.h
+string
+-
+sstream
+-
+vector
+-
+porter2_stemmer.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/porter2_stemmer.h
+include/rapidjson/document.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/document.h
+include/rapidjson/istreamwrapper.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/istreamwrapper.h
+include/rapidjson/stringbuffer.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stringbuffer.h
+include/rapidjson/writer.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/writer.h
+include/rapidjson/filereadstream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/filereadstream.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/SearchEngine.cpp
+SearchEngine.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/SearchEngine.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/SearchEngine.h
+DSAVLTree.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSAVLTree.h
+DocumentParser.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DocumentParser.h
+QueryEngine.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/QueryEngine.h
+IndexHandler.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/IndexHandler.h
+vector
+-
+iostream
+-
+fstream
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/catch.hpp
+TargetConditionals.h
+-
+cstddef
+-
+ciso646
+-
+iosfwd
+-
+string
+-
+cstdint
+-
+vector
+-
+cstddef
+-
+string
+-
+iosfwd
+-
+cassert
+-
+type_traits
+-
+vector
+-
+cstddef
+-
+type_traits
+-
+string
+-
+iosfwd
+-
+cstddef
+-
+ostream
+-
+vector
+-
+string_view
+-
+Foundation/Foundation.h
+-
+utility
+-
+optional
+-
+tuple
+-
+variant
+-
+ctime
+-
+ratio
+-
+chrono
+-
+iosfwd
+-
+string
+-
+chrono
+-
+string
+-
+vector
+-
+cstddef
+-
+string
+-
+cstdint
+-
+string
+-
+string
+-
+memory
+-
+exception
+-
+string
+-
+vector
+-
+type_traits
+-
+string
+-
+iosfwd
+-
+vector
+-
+string
+-
+vector
+-
+functional
+-
+string
+-
+string
+-
+algorithm
+-
+memory
+-
+exception
+-
+memory
+-
+vector
+-
+cassert
+-
+utility
+-
+exception
+-
+memory
+-
+chrono
+-
+iosfwd
+-
+string
+-
+vector
+-
+memory
+-
+cstdint
+-
+random
+-
+string
+-
+vector
+-
+memory
+-
+objc/runtime.h
+-
+string
+-
+string
+-
+vector
+-
+memory
+-
+string
+-
+memory
+-
+vector
+-
+string
+-
+string
+-
+iterator
+-
+string
+-
+iosfwd
+-
+map
+-
+set
+-
+memory
+-
+algorithm
+-
+algorithm
+-
+cstring
+-
+cfloat
+-
+cstdio
+-
+cassert
+-
+memory
+-
+ostream
+-
+vector
+-
+chrono
+-
+ratio
+-
+atomic
+-
+type_traits
+-
+utility
+-
+cassert
+-
+type_traits
+-
+utility
+-
+memory
+-
+type_traits
+-
+utility
+-
+tuple
+-
+type_traits
+-
+utility
+-
+utility
+-
+type_traits
+-
+algorithm
+-
+iterator
+-
+algorithm
+-
+functional
+-
+vector
+-
+iterator
+-
+numeric
+-
+tuple
+-
+cmath
+-
+utility
+-
+cstddef
+-
+random
+-
+algorithm
+-
+iterator
+-
+tuple
+-
+vector
+-
+cmath
+-
+algorithm
+-
+vector
+-
+string
+-
+iterator
+-
+algorithm
+-
+iterator
+-
+vector
+-
+algorithm
+-
+functional
+-
+string
+-
+vector
+-
+cmath
+-
+type_traits
+-
+string
+-
+vector
+-
+memory
+-
+cassert
+-
+random
+-
+future
+-
+cmath
+-
+limits
+-
+signal.h
+-
+cassert
+-
+string
+-
+optional
+-
+cassert
+-
+ostream
+-
+sstream
+-
+vector
+-
+cctype
+-
+string
+-
+memory
+-
+set
+-
+algorithm
+-
+fstream
+-
+ctime
+-
+cstring
+-
+ostream
+-
+AfxWin.h
+-
+windows.h
+-
+sstream
+-
+unistd.h
+-
+string
+-
+android/log.h
+-
+cassert
+-
+sys/types.h
+-
+unistd.h
+-
+cstddef
+-
+ostream
+-
+sys/sysctl.h
+-
+fstream
+-
+string
+-
+stdexcept
+-
+vector
+-
+memory
+-
+map
+-
+cassert
+-
+cerrno
+-
+vector
+-
+string
+-
+memory
+-
+Foundation/Foundation.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/Foundation/Foundation.h
+algorithm
+-
+signal.h
+-
+limits
+-
+set
+-
+crtdbg.h
+-
+set
+-
+limits
+-
+algorithm
+-
+iomanip
+-
+string
+-
+algorithm
+-
+cmath
+-
+cstdlib
+-
+cstdint
+-
+cstring
+-
+sstream
+-
+type_traits
+-
+iomanip
+-
+limits
+-
+regex
+-
+cassert
+-
+stack
+-
+cstdio
+-
+iosfwd
+-
+string
+-
+cstdio
+-
+cstring
+-
+fstream
+-
+sstream
+-
+stdexcept
+-
+io.h
+-
+unistd.h
+-
+cmath
+-
+vector
+-
+set
+-
+algorithm
+-
+ios
+-
+map
+-
+string
+-
+map
+-
+vector
+-
+exception
+-
+cassert
+-
+algorithm
+-
+sstream
+-
+memory
+-
+iosfwd
+-
+cstdlib
+-
+iomanip
+-
+set
+-
+iterator
+-
+vector
+-
+cstdio
+-
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+memory
+-
+algorithm
+-
+ostream
+-
+cstring
+-
+cctype
+-
+vector
+-
+algorithm
+-
+ostream
+-
+cstring
+-
+cstdint
+-
+sstream
+-
+cctype
+-
+exception
+-
+algorithm
+-
+sstream
+-
+algorithm
+-
+sstream
+-
+algorithm
+-
+cassert
+-
+stdexcept
+-
+memory
+-
+sstream
+-
+algorithm
+-
+string
+-
+vector
+-
+memory
+-
+chrono
+-
+cmath
+-
+iomanip
+-
+cstddef
+-
+exception
+-
+exception
+-
+ostream
+-
+iomanip
+-
+type_traits
+-
+cstring
+-
+cfloat
+-
+cstdio
+-
+cassert
+-
+memory
+-
+cfloat
+-
+cstdio
+-
+cassert
+-
+sstream
+-
+ctime
+-
+algorithm
+-
+iomanip
+-
+cassert
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/catch_setup.cpp
+catch.hpp
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/catch.hpp
+catch_setup.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/catch_setup.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/catch_setup.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/allocators.h
+rapidjson.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+internal/meta.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/meta.h
+memory
+-
+type_traits
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/document.h
+reader.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/reader.h
+internal/meta.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/meta.h
+internal/strfunc.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/strfunc.h
+memorystream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/memorystream.h
+encodedstream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/encodedstream.h
+new
+-
+limits
+-
+compare
+-
+iterator
+-
+map
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/encodedstream.h
+stream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stream.h
+memorystream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/memorystream.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/encodings.h
+rapidjson.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/error/error.h
+../rapidjson.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/filereadstream.h
+stream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stream.h
+cstdio
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/biginteger.h
+../rapidjson.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+intrin.h
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/clzll.h
+../rapidjson.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+intrin.h
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/diyfp.h
+../rapidjson.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+clzll.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/clzll.h
+limits
+-
+intrin.h
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/dtoa.h
+itoa.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/itoa.h
+diyfp.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/diyfp.h
+ieee754.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/ieee754.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/ieee754.h
+../rapidjson.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/itoa.h
+../rapidjson.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/meta.h
+../rapidjson.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+type_traits
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/pow10.h
+../rapidjson.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/stack.h
+../allocators.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/allocators.h
+swap.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/swap.h
+cstddef
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/strfunc.h
+../stream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stream.h
+cwchar
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/strtod.h
+ieee754.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/ieee754.h
+biginteger.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/biginteger.h
+diyfp.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/diyfp.h
+pow10.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/pow10.h
+climits
+-
+limits
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/swap.h
+../rapidjson.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/istreamwrapper.h
+stream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stream.h
+iosfwd
+-
+ios
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/memorystream.h
+stream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stream.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/msinttypes/inttypes.h
+stdint.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/msinttypes/stdint.h
+inttypes.h
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/msinttypes/stdint.h
+stdint.h
+-
+limits.h
+-
+wchar.h
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+cstdlib
+-
+cstring
+-
+rapidjson/...
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson/...
+string
+-
+msinttypes/stdint.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/msinttypes/stdint.h
+msinttypes/inttypes.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/msinttypes/inttypes.h
+stdint.h
+-
+inttypes.h
+-
+endian.h
+-
+rapidjson/...
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson/...
+cassert
+-
+utility
+-
+cassert
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/reader.h
+allocators.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/allocators.h
+stream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stream.h
+encodedstream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/encodedstream.h
+internal/clzll.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/clzll.h
+internal/meta.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/meta.h
+internal/stack.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/stack.h
+internal/strtod.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/strtod.h
+limits
+-
+intrin.h
+-
+nmmintrin.h
+-
+emmintrin.h
+-
+arm_neon.h
+-
+stdexcept
+-
+rapidjson/error/error.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson/error/error.h
+rapidjson/reader.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson/reader.h
+error/error.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/error/error.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stream.h
+rapidjson.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/rapidjson.h
+encodings.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/encodings.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stringbuffer.h
+stream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stream.h
+internal/stack.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/stack.h
+utility
+-
+internal/stack.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/stack.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/writer.h
+stream.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stream.h
+internal/clzll.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/clzll.h
+internal/meta.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/meta.h
+internal/stack.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/stack.h
+internal/strfunc.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/strfunc.h
+internal/dtoa.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/dtoa.h
+internal/itoa.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/internal/itoa.h
+stringbuffer.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/include/rapidjson/stringbuffer.h
+new
+-
+intrin.h
+-
+nmmintrin.h
+-
+emmintrin.h
+-
+arm_neon.h
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/main.cpp
+DSAVLTree.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DSAVLTree.h
+DocumentParser.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/DocumentParser.h
+SearchEngine.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/SearchEngine.h
+catch_setup.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/catch_setup.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/porter2_stemmer.cpp
+algorithm
+-
+utility
+-
+unordered_map
+-
+porter2_stemmer.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/porter2_stemmer.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/porter2_stemmer.h
+vector
+-
+string
+-
+util/string_view.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/util/string_view.h
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/util/hash.h
+array
+-
+cassert
+-
+cstdint
+-
+random
+-
+
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/util/string_view.h
+hash.h
+/mnt/c/Users/mikec_g1kgiu8/OneDrive/Desktop/CS 2341 Projects/21f-srch-ngn-thebraintrust/util/hash.h
+experimental/string_view
+-
+algorithm
+-
+stdexcept
+-
+string
+-
+

@@ -1,0 +1,5 @@
+Number of articles: 306242
+Average words indexed per article: 116
+Unique words indexed: 1284165
+Unique people indexed: 425283
+Unique orgs indexed: 568857
