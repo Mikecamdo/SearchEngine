@@ -1,12 +1,8 @@
-# Fall 2021 Final Project 
+# SearchEngine
+Final Project for CS 2341 Data Structures
 
-## Important:
+Project Handout: https://docs.google.com/document/d/1iKdp9c4WrrGjgHpJKb94H3mZb0PCYJLEV0gCnLe19aw/edit
 
-- You DO NOT need to implement GitHub Actions for the final project.  
-- DO NOT attempt to push the data set for this project to Github.  
+This program is a search engine that accepts simple Boolean queries and searches a dataset of 300,000 JSON files. The search engine is comprised of a query engine, an index handler, a document parser, and an inverted file index.
 
-## Links:
-
-- [Final Project Handout](https://docs.google.com/document/d/1iKdp9c4WrrGjgHpJKb94H3mZb0PCYJLEV0gCnLe19aw/edit?usp=sharing)
-- [Final Project Slide Deck](https://docs.google.com/presentation/d/1nuay20kigz95I6EUIbpLVTJqALJc-1HoqI1GsgWLWzQ/edit?usp=sharing)
-- Tutorial on RapidJSON by TA Christian > [here](https://github.com/Gouldilocks/rapidTutorial) <. 
+Also created and utilized a custom AVL tree class called DSAVLTree and a custom hash table class called DSHashTable.
